@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    name: "Mr. Bonkers",
+    name: "Wolf",
     bio: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum,
             minima voluptates libero cumque rerum consequatur optio aliquid sint
             eum maxime illo laborum omnis quo ab rem cupiditate nulla
@@ -48,7 +48,7 @@ const data = [
   },
   {
     id: 6,
-    name: "Snooper Pooper",
+    name: "Snooper",
     bio: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum,
             minima voluptates libero cumque rerum consequatur optio aliquid sint
             eum maxime illo laborum omnis quo ab rem cupiditate nulla
